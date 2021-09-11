@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zamb0
-- 👀 Interested in Software Electronic Engineering 
+- 👀 Interested in Software and Electronic Engineering 
 - 🌱 Currently learning Electronic and IT Engineering in Università di Pavia
 - 💻 Working in Università di Pavia as Tutor and Laboratory Assistant for C Languacge course
 - 🦾 Working in Università di Pavia as Tutor and Laboratory Assistant for Automation and Controls Systems
