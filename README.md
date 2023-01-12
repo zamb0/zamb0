@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @zamb0
-- 👀 Interested in Software and Electronic Engineering 
-- 🌱 Currently learning Electronic and IT Engineering in Università di Pavia
+- 👀 Interested in Automatic Controls 
+- 🌱 Currently learning Intelligent Controls Systems (Computer Engineering) in Università di Pavia
 - 💻 Working in Università di Pavia as Tutor and Laboratory Assistant for C Languacge course
 - 🦾 Working in Università di Pavia as Tutor and Laboratory Assistant for Automation and Controls Systems
-- ⛵️ Working in SailingTeam, in Università di Pavia, taking care about Software, Hardware and Sensors. 
+- ⛵️ Working in SailingTeam, in Università di Pavia. 
 - 📫 How to reach me:
 
 Email:  zamboni.fabio01@universitadipavia.it
