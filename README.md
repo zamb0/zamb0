@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zamb0
-- 👀 Interested in Automatic Controls 
+- 👀 Interested in Automation and Machine Learning 
 - 🌱 Currently learning Intelligent Controls Systems (Computer Engineering) in Università di Pavia
 - 💻 Working in Università di Pavia as Tutor and Laboratory Assistant for C Languacge course
 - 🦾 Working in Università di Pavia as Tutor and Laboratory Assistant for Automation and Controls Systems
