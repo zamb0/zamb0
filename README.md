@@ -4,7 +4,7 @@
 - 💻 Working in Università di Pavia as Tutor and Laboratory Assistant for C Languacge course
 - 🦾 Working in Università di Pavia as Tutor and Laboratory Assistant for Automation and Controls Systems
 - 📫 How to reach me:
-  - 🚀 https://zamb0.github.io/
+  - 🚀 https://zambo.me
   - 📨 zamboni.fabio01@universitadipavia.it
 
 
